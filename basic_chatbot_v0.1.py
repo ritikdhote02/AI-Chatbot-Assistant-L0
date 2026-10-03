@@ -1,4 +1,4 @@
-"""This is a simple Python script that uses the Azure OpenAI API to answer questions using a language model.
+"""This is a simple chatbot that uses the Azure OpenAI API to answer questions using a language model.
 Make sure to set the following environment variables in a .env file:
 AZURE_OPENAI_ENDPOINT=<your_azure_openai_endpoint>
 AZURE_OPENAI_DEPLOYMENT_NAME=<your_azure_openai_deployment_name>
