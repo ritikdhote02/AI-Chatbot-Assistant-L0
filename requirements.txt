@@ -1,6 +1,4 @@
-langchain
-langchain-openai 
-python-dotenvannotated-types==0.8.0
+annotated-types==0.8.0
 anyio==4.15.1
 certifi==2026.7.22
 charset-normalizer==3.5.2
