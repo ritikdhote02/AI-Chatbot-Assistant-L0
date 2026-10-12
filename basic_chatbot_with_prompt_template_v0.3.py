@@ -48,7 +48,8 @@ while True:
 
     question = input("You: ")
 
-    if question.lower() == "exit":
+    if question.lower() in ["exit", "quit"]:
+        print("Exiting the AI Question Answering System. Goodbye!")
         break
 
     response = chain.invoke(
