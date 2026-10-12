@@ -117,4 +117,4 @@ while True:
 
 # print("Conversation history:")
 # for message in get_session_history(session_id).messages:
-#     print(f"{message.type.capitalize()}: {message.content}")    
+#     print(f"{message.type.capitalize()}: {message.content}")
